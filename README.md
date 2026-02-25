@@ -80,3 +80,4 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+The decentralized crowdfunding smart contract was successfully deployed and tested on the Ethereum network. Contributors were able to fund the campaign securely using ETH within the specified deadline. Funds were released to the creator only when the goal was met; otherwise, contributors successfully reclaimed their refunds.
